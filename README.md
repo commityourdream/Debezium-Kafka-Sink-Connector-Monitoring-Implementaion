@@ -1,4 +1,4 @@
-# Latest-Sink-Connector-Setup
+# Debezium Kafka Sink Connector Monitoring Implementaion
 
 
 This setup is going to demonstrate how to receive events from MySQL database and stream them down to a PostgreSQL database using Kafka, Debezium, JDBC and Grafana.
